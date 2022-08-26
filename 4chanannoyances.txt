@@ -8,6 +8,7 @@
 ###abc-cnt
 ###announce
 ###delform > .adc-resp-bg
+###content > .adc-resp-bg
 
 ! janie message and other mod messages
 ##.center.middlead > div
