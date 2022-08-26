@@ -2,3 +2,15 @@
 ||a.uguu.se/AjvzYSlr.gif$image
 ||a.uguu.se/esOyYVc.jpeg$image
 ||www.youtube.com/embed/Ml8-zu8UUTQ?&autoplay=1&loop=1&controls=0$subdocument,domain=boards.4chan.org
+
+! home page ad
+##.center.middlead > div
+###abc-cnt
+###announce
+###delform > .adc-resp-bg
+
+! janie message and other mod messages
+##.center.middlead > div
+##h3
+##hr:nth-of-type(3)
+###toggleMsgBtn
