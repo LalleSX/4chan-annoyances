@@ -14,3 +14,4 @@
 ##h3
 ##hr:nth-of-type(3)
 ###toggleMsgBtn
+###blotter
