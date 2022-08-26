@@ -24,3 +24,7 @@ boards.4chan.org##hr:nth-of-type(3)
 boards.4chan.org###toggleMsgBtn
 boards.4chan.org###blotter
 boards.4chan.org##.desktop.adg-rects
+! analytics and scrips
+||www.google-analytics.com/analytics.js$script,domain=4chan.org
+||s.4cdn.org/js/frontpage.min.7.js$script,domain=4chan.org
+
