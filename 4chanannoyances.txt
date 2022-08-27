@@ -1,4 +1,7 @@
-! Title: 4chan annoyances 
+! Title: 4chan annoyances
+! Expires: 3 days
+! Licence: https://www.gnu.org/licenses/gpl-3.0.html
+
 ! 4chan /b/ bee pop-up
 ||a.uguu.se/AjvzYSlr.gif$image
 ||a.uguu.se/esOyYVc.jpeg$image
