@@ -1,7 +1,7 @@
 ! Title: 4chan annoyances
 ! Expires: 3 days
 ! Licence: https://www.gnu.org/licenses/gpl-3.0.html
-! Last modified: 6 Sep 2022 23:19 UTC
+! Last modified: 8 Sep 2022 18:15 UTC
 
 ! 4chan /b/ bee pop-up
 ||a.uguu.se/AjvzYSlr.gif$image
@@ -29,6 +29,7 @@ boards.4chan.org##hr:nth-of-type(3)
 boards.4chan.org###toggleMsgBtn
 boards.4chan.org###blotter
 boards.4chan.org##.desktop.adg-rects
-! analytics and scrips
+
 ||www.google-analytics.com/analytics.js$script,domain=4chan.org
 ||www.youtube.com/embed/L6DP4VijKms?autoplay=1&loop=1&listType=playlist&list=PLku2IR132nTLoOy-mo0zY7mQNphK9Ohxl$subdocument,domain=boards.4chan.org
+||i.4cdn.org/wsg/1662647703544948.webm$media,domain=boards.4chan.org
