@@ -34,4 +34,4 @@ boards.4chan.org##.desktop.adg-rects
 ||www.youtube.com/embed/L6DP4VijKms?autoplay=1&loop=1&listType=playlist&list=PLku2IR132nTLoOy-mo0zY7mQNphK9Ohxl$subdocument,domain=boards.4chan.org
 ||i.4cdn.org/wsg/1662647703544948.webm$media,domain=boards.4chan.org
 ||www.youtube.com/embed/deNuWfj6kic?&autoplay=1&loop=1&controls=0$subdocument,domain=boards.4chan.org
-||files.catbox.moe/b20o1y.gif$image
+boards.4chan.org##[src="https://files.catbox.moe/b20o1y.gif"]
