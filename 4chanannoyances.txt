@@ -38,3 +38,4 @@ boards.4chan.org##[src="https://files.catbox.moe/b20o1y.gif"]
 boards.4channel.org##.catalog-thread::after
 boards.4chan.org##.party-hat
 boards.4channel.org##.party-hat
+||i.4cdn.org/s4s/1664659021519213.gif$image
