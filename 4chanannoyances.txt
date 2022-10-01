@@ -35,3 +35,4 @@ boards.4chan.org##.desktop.adg-rects
 ||i.4cdn.org/wsg/1662647703544948.webm$media,domain=boards.4chan.org
 ||www.youtube.com/embed/deNuWfj6kic?&autoplay=1&loop=1&controls=0$subdocument,domain=boards.4chan.org
 boards.4chan.org##[src="https://files.catbox.moe/b20o1y.gif"]
+boards.4channel.org##.catalog-thread::after
